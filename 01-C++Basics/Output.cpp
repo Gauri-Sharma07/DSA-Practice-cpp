@@ -2,7 +2,6 @@
 using namespace std;
 
 int main() {
-   cout << "My First C++ Code!";
-   
+   cout << "My First C++ Code!\n";
    return 0;
 }
